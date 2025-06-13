@@ -1,0 +1,51 @@
+activity_id,name,category,location,vendor_id,likes,rating
+1,Cours de boxe,Sport,Paris,5,600,2.4
+2,Session de crossfit,Sport,Paris,1,71,2.0
+3,Randonnée urbaine,Sport,Paris,2,38,4.8
+4,Escalade indoor,Sport,Paris,7,258,4.3
+5,Tournoi de padel,Sport,Paris,2,642,0.8
+6,Séance de running coachée,Sport,Paris,7,897,0.7
+7,Bootcamp fitness,Sport,Paris,4,59,4.1
+8,Atelier HIIT,Sport,Paris,3,288,4.1
+9,Marathon découverte,Sport,Paris,6,174,1.8
+10,Initiation au trail,Sport,Paris,6,120,2.4
+11,Massage suédois,Bien-être,Paris,1,609,4.1
+12,Séance de yoga doux,Bien-être,Paris,6,690,0.4
+13,Spa sensoriel,Bien-être,Paris,5,479,4.2
+14,Sauna japonais,Bien-être,Paris,6,965,2.7
+15,Bain nordique,Bien-être,Paris,4,607,3.0
+16,Sophrologie en groupe,Bien-être,Paris,3,656,0.7
+17,Réflexologie plantaire,Bien-être,Paris,4,201,3.0
+18,Séance de méditation guidée,Bien-être,Paris,5,23,4.6
+19,Pilates relaxant,Bien-être,Paris,3,68,2.6
+20,Massage aux pierres chaudes,Bien-être,Paris,1,847,1.8
+21,Visite du Louvre,Culture,Paris,2,987,2.4
+22,Expo d'art contemporain,Culture,Paris,4,740,1.1
+23,Soirée théâtre classique,Culture,Paris,5,598,3.3
+24,Concert de musique baroque,Culture,Paris,7,549,4.8
+25,Atelier d’écriture,Culture,Paris,2,698,1.0
+26,Projection cinéma d'auteur,Culture,Paris,5,583,0.6
+27,Conférence historique,Culture,Paris,1,421,0.1
+28,Visite guidée Montmartre,Culture,Paris,7,510,4.8
+29,Spectacle de rue,Culture,Paris,6,458,0.6
+30,Lecture poétique,Culture,Paris,6,825,0.2
+31,Atelier poterie,Manuels,Paris,3,125,0.7
+32,Stage de couture,Manuels,Paris,2,472,3.8
+33,Cours de dessin,Manuels,Paris,5,683,0.8
+34,Atelier peinture acrylique,Manuels,Paris,5,801,2.2
+35,Création de bijoux,Manuels,Paris,2,17,4.3
+36,Atelier DIY cosmétique,Manuels,Paris,5,900,1.5
+37,Initiation au tricot,Manuels,Paris,6,678,3.8
+38,Cours de calligraphie,Manuels,Paris,2,951,2.3
+39,Travail du bois,Manuels,Paris,2,822,3.2
+40,Atelier macramé,Manuels,Paris,3,133,0.9
+41,Escape game extrême,Extrêmes,Paris,1,159,4.7
+42,Saut à l’élastique VR,Extrêmes,Paris,1,315,4.3
+43,Simulateur de chute libre,Extrêmes,Paris,5,682,1.1
+44,Réalité virtuelle extrême,Extrêmes,Paris,4,290,4.1
+45,Parcours ninja indoor,Extrêmes,Paris,3,57,5.0
+46,Combat de sabre laser,Extrêmes,Paris,6,392,3.3
+47,Accrobranche extrême,Extrêmes,Paris,2,31,4.4
+48,Paintball urbain,Extrêmes,Paris,7,328,3.4
+49,Spéléo urbaine,Extrêmes,Paris,7,80,1.9
+50,Jet ski simulateur,Extrêmes,Paris,7,61,2.1
