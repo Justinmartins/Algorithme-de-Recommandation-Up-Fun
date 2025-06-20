@@ -57,7 +57,7 @@ best_model = trained_models[best_model_name]
 print(f"Modèle sélectionné : {best_model_name}")
 
 # Route API 
-@app.route('/recommend', methods=[''])
+@app.route('/recommend', methods=['POST'])
 def recommend():
     data = request.json
     user_id = data.get('user_id')
