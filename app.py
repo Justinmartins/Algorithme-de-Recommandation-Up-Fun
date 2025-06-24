@@ -89,6 +89,10 @@ def recommend():
     return jsonify(recommendations.to_dict(orient='records'))
 
 
+@app.get("/")
+def root():
+    return {"message" : " Bienvenue sur l'API"}
+    
 # Pour que Flask démarre
 if __name__ == "__main__":
     print("Lancement du serveur Flask...")
